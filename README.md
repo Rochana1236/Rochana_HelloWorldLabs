@@ -1,2 +1,2 @@
-# Tharindu_HelloWorldLabs
+# Rochana_HelloWorldLabs
 Embedded systems starting project
